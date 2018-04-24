@@ -1,2 +1,2 @@
 # LearningReact12
-Chapter 14: Building A Simple TODO List APP
+Chapter 14: Building A Simple To-Do List Application
